@@ -3,6 +3,5 @@
 
 # Purpose
   
-  Exploratory analysis of Covid data from 2020-2022 
+  Exploratory analysis of Covid data from 2020-2022 using sql
   
-  [fff](sheet 1.png)
